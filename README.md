@@ -63,4 +63,4 @@ These two ideas shape how I approach engineering, teamwork, and growth.
 ---
 
 > I don’t aim to be perfect.  
-> I aim to keep getting better — and to do it the right way.
+> I aim to keep getting better, and to do it the right way.
