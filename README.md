@@ -1,6 +1,6 @@
 # Hi, I’m Vedant Narawadkar (@naiveman04)
 
-Performance Engineering Intern • Software Tester • B.E. E&TC, Final Year
+Performance Engineering • B.E. E&TC, Final Year
 
 🌐 Portfolio: https://vedantn.framer.website/
 
@@ -22,32 +22,32 @@ These two ideas shape how I approach engineering, teamwork, and growth.
 
 ## What I’m working on right now
 
-- Performance Engineering Intern in an enterprise environment  
-- Learning **Gatling** for performance testing  
-- Working with **Datadog** for monitoring and observability  
-- Learning and maintaining automation and performance test suites  
+- Performance Engineering in an enterprise environment - breaking systems with millions of hits
+- Working with **Gatling** with AI tools for performance test scripting  
+- Working with **Datadog** & **Chronosphere** with OpenTelemetry standards for monitoring and observability  
+- Maintaining and upgrading automation and performance test suites  
 
 ---
 
 ## Technical focus
 
-**Primary:** Java  
+**Primary:** Java, Memory Management
 **Also used:** Python, JavaScript  
-**Currently improving:** Data Structures & Algorithms, System thinking, Performance analysis  
+**Improving on:** DSA, System thinking, Performance analysis, JVM Internals
 
 ---
 
 ## Skills & tools
 
-**Testing & Performance:** Gatling · Datadog · Playwright · Postman · Manual Testing  
+**Testing & Performance:** Gatling · Datadog · Playwright · Bruno · Manual Testing  
 **Programming:** Java · Python · JavaScript · SQL · OOP · ML Basics  
-**Tools:** Git & GitHub · VS Code · IntelliJ · Jupyter · Eclipse · Arduino IDE · Octave · Keil uVision  
+**Tools:** Git & GitHub · VS Code · IntelliJ · Jupyter · Eclipse · Arduino IDE · Octave · Keil uVision · AWS
 
 ---
 
 ## Achievements & background
 
-- 🏋️ **Fitness enthusiast** — 3+ years of training, knowledge of nutrition & programming, and coached 4 people from scratch  
+- 🏋️ **Fitness enthusiast** — 4+ years of training, knowledge of nutrition & programming, and coached 4 people from scratch  
 - 🥇 **State-level Karate Gold Medalist** (Kata)  
 - 🎓 **BE in Electronics & Telecommunication** — Pune Institute of Computer Technology (PICT)  
 
